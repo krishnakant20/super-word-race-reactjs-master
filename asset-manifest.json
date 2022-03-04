@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/super-word-race-reactjs-master/static/css/main.cc1556da.css",
+    "main.js": "/super-word-race-reactjs-master/static/js/main.6fdfdea1.js",
+    "static/js/787.e8e50d6f.chunk.js": "/super-word-race-reactjs-master/static/js/787.e8e50d6f.chunk.js",
+    "static/media/3.jpg": "/super-word-race-reactjs-master/static/media/3.8dceb1c1b3f5cabe75cf.jpg",
+    "index.html": "/super-word-race-reactjs-master/index.html",
+    "main.cc1556da.css.map": "/super-word-race-reactjs-master/static/css/main.cc1556da.css.map",
+    "main.6fdfdea1.js.map": "/super-word-race-reactjs-master/static/js/main.6fdfdea1.js.map",
+    "787.e8e50d6f.chunk.js.map": "/super-word-race-reactjs-master/static/js/787.e8e50d6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1556da.css",
+    "static/js/main.6fdfdea1.js"
+  ]
+}
