@@ -1,0 +1,8 @@
+#gameName{
+    color: aqua;
+}
+.navbarFlex{
+    display: flex;
+    justify-content:space-evenly;
+    font-size: larger;
+}
